@@ -1,6 +1,6 @@
 # HipsterIpsum
 
-Fork of [https://github.com/billymoon/LoremIpsum](LoremIpsum by BillyMoon)
+Fork of [LoremIpsum by BillyMoon](https://github.com/billymoon/LoremIpsum)
 
 An extension for Sublime Text 2 and 3!
 
