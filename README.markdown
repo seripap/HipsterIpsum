@@ -16,20 +16,19 @@ Alternatively, you can also specify the number of paragraphs, by writing a numbe
 
 Generate a dummy title for a blog, and a few paragraphs
 
-- Press the shortcut once, to generate a single line of Hipster upsum, of about 10 characters
+- Press the shortcut once, to generate a single line of Hipster ipsum, of about 10 characters
 - Move down to a newline, and type `5.60` and then press the keyboard shortcut for Hipster ipsum
 
 ## Features
 
-1. Uses only words from [the original Hipster ipsum text](http://www.lipsum.com/)
+1. Uses only words from [Hipster ipsum text](https://gist.github.com/seripap/a58005a2d8b6a6a71615)
 2. Randomly generates text from selection of words
-3. Always starts with `Hipster ipsum` for first paragraph, and capitalizes following paragraphs
-4. Leaves the inserted text un-selected, so you can insert some more straight away (rapid tapping to get as much Hipster as you want)
-5. Shortcut key, `Edit -> Text -> Hipster Ipsum...` sub-menu, and context menu activation
-6. Variable size of text from just `a bit` to more than you can shake a stick at!
-7. Specify how many paragraphs and words per paragraph you want (type a number before pressing the Hipster ipsum keyboard shortcut)
-8. Works with multiple selection ranges
-9. Does not leave trailing spaces
+3. Leaves the inserted text un-selected, so you can insert some more straight away (rapid tapping to get as much Hipster as you want)
+4. Shortcut key, `Edit -> Text -> Hipster Ipsum...` sub-menu, and context menu activation
+5. Variable size of text from just `a bit` to more than you can shake a stick at!
+6. Specify how many paragraphs and words per paragraph you want (type a number before pressing the Hipster ipsum keyboard shortcut)
+7. Works with multiple selection ranges
+8. Does not leave trailing spaces
 
 ## Install
 
@@ -45,7 +44,3 @@ The easiest way to install this is with [Package Control](http://wbond.net/subli
 Package Control will automatically keep Git up to date with the latest version.
 
 Report bugs here, and I will do my best to repair them (or better still - make the fix, and send me a pull request).
-
----
-
-If you have some problems or improvements with it, contact me via GitHub.
