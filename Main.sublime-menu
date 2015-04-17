@@ -9,7 +9,7 @@
                 [
                     {
                         "caption":"Hipster Ipsum...",
-                        "mnemonic": "LI",
+                        "mnemonic": "HI",
                         "children":
                         [
                             {"command": "hipster_ipsum", "caption": "a bit", "args":{"qty":5}},
