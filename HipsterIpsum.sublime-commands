@@ -1,0 +1,26 @@
+[
+
+  {
+    "caption": "HipsterIpsum: (5) a bit",
+    "command": "hipster_ipsum",
+    "args": {"qty": 5 }
+  },
+
+  {
+    "caption": "HipsterIpsum: (15) some",
+    "command": "hipster_ipsum",
+    "args": {"qty": 15 }
+  },
+
+  {
+    "caption": "HipsterIpsum: (30) lots",
+    "command": "hipster_ipsum",
+    "args": {"qty": 30 }
+  },
+
+  {
+    "caption": "HipsterIpsum: (200) stick shake",
+    "command": "hipster_ipsum",
+    "args": {"qty": 200 }
+  }
+]
